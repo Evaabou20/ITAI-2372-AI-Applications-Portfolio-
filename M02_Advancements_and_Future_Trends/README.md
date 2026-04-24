@@ -10,7 +10,8 @@ This module analyzes the rapid evolution of Generative AI and the global shift t
 
 **Assignment Overview: Comparative Analysis**
 
-This folder contains a comprehensive research document that bridges classroom theory with independent analysis. Key areas covered include:
+This folder contains a comprehensive research document that bridges classroom theory with independent analysis. 
+Key areas covered include:
 * **Integrated Lecture Notes:** A detailed summary of core class discussions regarding major AI breakthroughs, including Meta's LLaMA 3, OpenAI's o1 series, and DeepMind's Gemini 1.5 Pro.
 * **Model Comparison:** A strategic evaluation of performance and specialized features across leading LLMs, specifically comparing GPT-4o and Claude 3.5 Sonnet.
 * **Regulatory Impact:** A comparative study of global governance, analyzing the differences between the **EU AI Act's** risk-based approach and the **U.S. Executive Order** on Safe and Trustworthy AI.
