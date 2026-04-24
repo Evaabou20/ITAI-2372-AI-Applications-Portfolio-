@@ -1,4 +1,5 @@
 **M01: Philosophy and AI**
+
 This module explores the historical and philosophical foundations of Artificial Intelligence.
 
 **Core Topics & Learning Objectives**
