@@ -20,5 +20,5 @@ This module explores the synergy between Artificial Intelligence and Blockchain 
 * **Risks & Challenges:** Addressing the "dark side" of the tech, including crypto scams, market manipulation, and the environmental impact of high-energy consensus mechanisms.
 
 **Included Files** 
-* ITAI2372_AbouHarb_Eva_Blockchain.docx - Comprehensive notes summary on AI and Blockchain synergy.
+* [ITAI2372 AbouHarb Eva Blockchain](https://docs.google.com/document/d/1zCQkH7p0ulNkLsu7kG-6_pXHViWwE_Ml/edit?usp=sharing&ouid=107180900369257048425&rtpof=true&sd=true) - Comprehensive research on AI and Blockchain synergy (Hosted externally due to file size). 
 * ITAI_2372_Mod_08_Blockchain_Integration.pdf - Lecture presentation on decentralized ledgers and AI-powered smart contracts. 
