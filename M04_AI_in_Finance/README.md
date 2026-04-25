@@ -11,16 +11,19 @@ This module explores the digital transformation of the financial sector, focusin
 **Key Projects & Assignments**
 
 **1. Case Study: JPMorgan Chase & Fraud Detection**
+
 A deep-dive research paper into how JPMorgan Chase utilizes advanced AI and machine learning to secure millions of daily transactions.
 * **Focus:** Overcoming the "dark side" of AI (advanced scams) through continuous model improvement and data quality.
 * **Key Finding:** The transition from rule-based systems to AI-driven models significantly improved accuracy and response time in detecting phishing and identity theft.
 
 **2. Hands-on Project: AI-Based Stock News Sentiment Tracker**
+
 A practical application of Large Language Models (GPT-4) to analyze financial news sentiment. 
 * **Process:** Gathered real-time headlines from Yahoo Finance and CNBC for major tech stocks (MSFT, GOOGL, AAPL, TSLA, META).
 * **Analysis:** Classified sentiment as Positive, Negative, or Neutral to help investors make data-driven decisions faster than manual reading allows.
 
 **3. Lecture Synthesis: AI in Financial Operations**
+
 Consolidated notes covering the broader landscape of AI in finance, including: 
 * **Robo-advisors** for automated portfolio management.
 * **Chatbots and Virtual Assistants** for personalized customer service.
