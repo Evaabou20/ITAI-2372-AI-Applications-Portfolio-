@@ -10,7 +10,7 @@ This module explores the dual nature of AI in the creative industries: its role 
 
 **Key Insights from "Entertainment and Media" Analysis**
 * **Content Automation:** AI tools now handle what used to require entire teams, such as separating audio tracks and generating summaries, drastically reducing production costs.
-* 
+  
 **Ethical & Legal Barriers:**
 * **Copyright & IP:** The ongoing debate regarding AI training on protected data without citation.
 * **Job Displacement:** The reduction of roles for junior animators, editors, and transcriptionists.
