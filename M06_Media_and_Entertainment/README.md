@@ -19,4 +19,4 @@ This module explores the dual nature of AI in the creative industries: its role 
 
 **Included Files**
 * A06_Entertainment_and_Media.docx - Detailed analysis of AI use cases and ethical concerns in the media sector.
-* ITAI_2372_Mod_06_Media_and_Entertainment.pdf - Lecture presentation on the rise of AI in creative industries. 
+* ITAI_2372_Mod_07_Media_and_Entertainment.pdf - Lecture presentation on the rise of AI in creative industries. 
