@@ -19,5 +19,5 @@ This assessment also valudated a broader understanding of AI ethics and foundati
 
 **Included Files**
 * AbouHarb_Eva_Report.pdf - Case Study: The Case of Netflix Recommendation Systems.
-* AI-in-Entertainment-and-Media.pptx - Presentation slides highlighting benefits vs. ethical risks.
-* Presentation.zip - An AI-Integrated presentation featuring synthetic voice narration.
+* AI-in-Entertainment-and-Media.pdf - Presentation slides highlighting benefits vs. ethical risks.
+* [▶️ Watch Multimedia Presentation](https://youtu.be/jiyTBV-Wjs8) - A video version of the presentation featuring AI-generated voice narration. 
