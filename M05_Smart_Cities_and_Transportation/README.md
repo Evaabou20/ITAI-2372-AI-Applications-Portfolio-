@@ -11,12 +11,14 @@ This module explores the integration of AI, IoT, and 5G connectivity to create m
 **Key Assignments & Research**
 
 **1. Smart City Intelligence & Infrastructure (Class Notes)** 
+
 A comprehensive summary of the building blocks of modern smart cities.
 
 * **Focus:** Data management, Mobility as a Service (MaaS), and the role of digital twins in urban planning.
 * **Technical Insights:** Exploration of V2V (Vehicle-to-Vehicle) and V2I (Vehicle-to-Infrastructure) communications for collision avoidance.
 
 **2. Comparative Analysis: Finance vs. Smart Cities**
+
 A detailed document evaluating how AI transforms two different but interconnected sectors.
 
 * **Finance Recap:** Real-time risk processing and economic forecasting using predictive analysis.
