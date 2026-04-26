@@ -3,6 +3,7 @@
 This module explores the shift toward **Industry 4.0**, analyzing how Artificial Intelligence is transforming traditional production lines into smart, data-driven ecosystems. 
 
 **Case Study Overview: Advantages of AI in Manufacturing**
+
 The research focuses on the transition from reactive and fixed-schedule maintenance to intelligent, predictive systems. 
 
 * **Predictive Maintenance:** Analysis of how machine learning and sensor data anticipate equipment failures before they occur, reducing unexpected downtime and extending machinery lifespan.
